@@ -33,3 +33,20 @@ Below are the CRUD requests and their corresponding urls:
 <img width="1440" alt="Screenshot 2020-07-26 at 9 46 50 PM" src="https://user-images.githubusercontent.com/41140089/88477249-81518680-cf92-11ea-81f1-1ab2febea47a.png">
 
 <img width="1440" alt="Screenshot 2020-07-26 at 9 49 52 PM" src="https://user-images.githubusercontent.com/41140089/88477250-8282b380-cf92-11ea-80ea-3c8e9f3a09c9.png">
+
+Below are the database select queries
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 32 22 PM" src="https://user-images.githubusercontent.com/41140089/88477272-cfff2080-cf92-11ea-84e0-0d01aa51efa9.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 32 41 PM" src="https://user-images.githubusercontent.com/41140089/88477275-d55c6b00-cf92-11ea-87c8-c8681cd71964.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 32 47 PM" src="https://user-images.githubusercontent.com/41140089/88477277-d5f50180-cf92-11ea-81d6-8b81797affa6.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 38 46 PM" src="https://user-images.githubusercontent.com/41140089/88477278-d7262e80-cf92-11ea-8716-ecc2341ef37f.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 40 27 PM" src="https://user-images.githubusercontent.com/41140089/88477279-d8575b80-cf92-11ea-842e-2f3c4d73f59e.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 45 43 PM" src="https://user-images.githubusercontent.com/41140089/88477281-d8eff200-cf92-11ea-9fd6-83a3028fbd6f.png">
+
+<img width="1440" alt="Screenshot 2020-07-26 at 9 50 15 PM" src="https://user-images.githubusercontent.com/41140089/88477283-da211f00-cf92-11ea-95a6-9ecd736b1d5d.png">
+
