@@ -1,9 +1,13 @@
 # StudentSIMS
 
+Schema of the application
+Below are the images of the schema created for the application
 <img width="1440" alt="Screenshot 2020-07-26 at 9 21 50 PM" src="https://user-images.githubusercontent.com/41140089/88476922-1f901d00-cf90-11ea-8d21-03acbe73856c.png">
 <img width="549" alt="Screenshot 2020-07-26 at 9 22 04 PM" src="https://user-images.githubusercontent.com/41140089/88476926-2454d100-cf90-11ea-8b66-1cbbcb13ee0c.png">
 <img width="340" alt="Screenshot 2020-07-26 at 9 22 18 PM" src="https://user-images.githubusercontent.com/41140089/88476927-274fc180-cf90-11ea-811f-4fb4e82ce226.png">
 <img width="548" alt="Screenshot 2020-07-26 at 9 22 31 PM" src="https://user-images.githubusercontent.com/41140089/88476929-2e76cf80-cf90-11ea-9454-e601e98f9539.png">
+
+Below are the images of the CRUD requests
 <img width="1440" alt="Screenshot 2020-07-26 at 9 24 56 PM" src="https://user-images.githubusercontent.com/41140089/88476933-33d41a00-cf90-11ea-9def-c2ea67561624.png">
 <img width="1440" alt="Screenshot 2020-07-26 at 9 25 02 PM" src="https://user-images.githubusercontent.com/41140089/88476934-36cf0a80-cf90-11ea-92c4-b6e0ac907691.png">
 <img width="1440" alt="Screenshot 2020-07-26 at 9 25 08 PM" src="https://user-images.githubusercontent.com/41140089/88476937-39c9fb00-cf90-11ea-9af1-96e749a46942.png">
